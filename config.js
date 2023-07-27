@@ -17,10 +17,10 @@ const CONFIG = {
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Welcome to tomorrow, ',
-	greetingAfternoon: 'Good afternoon, ',
-	greetingEvening: 'Good evening, ',
-	greetingNight: 'Good evening, ',
+	greetingMorning: 'Welcome to tomorrow,',
+	greetingAfternoon: 'Good afternoon,',
+	greetingEvening: 'Good evening,',
+	greetingNight: 'Good evening,',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -65,7 +65,7 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'Hetzner',
 			icon: 'cloud',
 			link: 'https://hetzner.com',
 		},
@@ -78,7 +78,7 @@ const CONFIG = {
 		{
 			id: '5',
 			name: 'Google',
-			icon: 'google',
+			icon: 'search',
 			link: 'https://google.com',
 		},
 		{
